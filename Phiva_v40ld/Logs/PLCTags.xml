@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="PLCTags.xml" projectName="C:\Laptop_Tym\Documents\WSK\With Vanessa\++Assets\Kat_test by Vincent\PLCTags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Warning" dateTime="6:47:51 PM">
+    <Message>The Excel document does not contain a "Constants" sheet.</Message>
+  </LogEntry>
+</LogFile>
